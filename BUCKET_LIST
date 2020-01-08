@@ -1,0 +1,32 @@
+<!doctype html>
+<html>
+<head>
+  <title>WEB1 - BUCKET LIST</title>
+  <meta charset="utf-8">
+</head>
+<body>
+  <h1><a href = "index.bucket_list">BUCKET LIST</a></h1>
+  <ol>
+    <li><a href = "PLACE">PLACE</a></li>
+    <li><a href = "FOOD">FOOD</a></li>
+    <li><a href = "THINGS">THINGS</a></li>
+    <li><a href = "QUALIFICATIONS">QUALIFICATIONS</a></li>
+    <li><a href = "AND_SO_ON">AND_SO_ON</a></li>
+  </ol>
+
+  <h2>What is <a href="https://bucketlistjourney.net/my-bucket-list/"
+  target = "_blank" title = "1000 bucket lists">BUCKET LIST?</a></h2>
+
+  <p style="margin-bottom:20px;">A number of experiences or
+  achievements<strong>that a person <u>hopes to have or
+  accomplish</u></strong> during their lifetime.</p>
+  <img src="bucket_list.jpg" width="100%">
+  <p><strong>Anything is possible in my mind.</strong></p>
+  <p style="margin-top:20px;">It is my hope that you use these
+  bucket list ideasand examples as inspiration to create your
+  own cool and adventurous bucket list. And then you take at least
+  one step everyday to complete the items on it.
+  This bucket list has completely changed my life
+  (for the better, of course!) and I wish the same for you.</p>
+</body>
+</html>
